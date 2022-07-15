@@ -2,7 +2,7 @@ The website contains 3 games and 3 utilities
 
 Games 
 
-Game 1 -> LightsOut -> You are given an initial pattern of lit and unlit grid boxes. You have to turn off all the lights off. To do so, you can click on any lit box, which will toggle the box you clicke on as well as all the adjacent boxes 
+Game 1 -> LightsOut -> You are given an initial pattern of lit and unlit grid boxes. You have to turn all the lights off. To do so, you can click on any lit box, which will toggle the box you clicke on as well as all the adjacent boxes 
 
 Game 2 -> PokeDox Game -> Tests your luck , if after refreshing the page, the total experience of your poke cards is greater than a certain number or not
 

@@ -1,3 +1,20 @@
+The website contains 3 games and 3 utilities
+Games 
+
+Game 1 -> LightsOut -> You are given an initial pattern of lit and unlit grid boxes. You have to turn off all the lights off. To do so, you can click on any lit box, which will toggle the box you clicke on as well as all the adjacent boxes 
+
+Game 2 -> PokeDox Game -> Tests your luck , if after refreshing the page, the total experience of your poke cards is greater than a certain number or not
+
+Game 3 -> DiceRoll -> Tests your luck , if after rolling the dice, both the dices are 6 or not
+
+Utilities 
+
+Utility1 -> Box generator of any heigth, width and any color
+
+Utility2 -> Color Generator generates random color 
+
+Utility3 -> Todo App with save, update, delete and markAsDone Functionality
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

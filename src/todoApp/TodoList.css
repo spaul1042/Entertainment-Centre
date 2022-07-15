@@ -1,0 +1,28 @@
+.mainContainer{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.todoConatiner{
+    height: auto;
+    width:fit-content;
+
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid rgb(45, 32, 45);
+
+    padding:5px;
+    margin:20px; 
+}
+.todoList{
+   
+    height: auto;
+    width:fit-content;
+    border:2px solid red;
+    padding:10px;
+    margin:10px;
+    background-color: cyan;
+    
+}

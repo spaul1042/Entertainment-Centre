@@ -1,0 +1,18 @@
+body{
+  background-color:#3D4849;
+}
+  .Container{
+    height:600px;
+    /* width:1400px;  */
+    /* margin-left: 100px;*/
+    margin-top:50px; 
+    border:2px solid lightsalmon; 
+    background-color:hsl(266, 47%, 61%);
+    /* background-image: url("https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/Best-Among-Us-Desktop-PC-Wallpaper-Backgrounds-MaternitySignpost-Neytrix.jpg"); */
+     
+  } 
+  
+  h2{
+    text-align: center;
+    color:darkred
+  }

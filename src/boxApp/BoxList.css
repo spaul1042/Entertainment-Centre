@@ -1,0 +1,23 @@
+.conatiner{
+    margin-left:200px;
+    
+}
+.heading{
+    background-color:white;
+    margin-top: 10px;
+    border:2px solid white;
+    border-radius: 10px;
+}
+.form{
+    height:auto;
+    width:auto;
+    margin-left: 200px;
+}
+.list{
+    height:auto;
+    width:auto;
+    border-radius: 5px;
+    border-color: blueviolet;
+    margin-left:20px;
+    margin-top: 40px;
+}

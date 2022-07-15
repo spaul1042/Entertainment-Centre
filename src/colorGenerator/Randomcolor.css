@@ -1,0 +1,4 @@
+.OuterDiv{
+    display:flex;
+    flex-wrap: wrap;
+}

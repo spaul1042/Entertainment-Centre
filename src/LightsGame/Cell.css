@@ -1,0 +1,9 @@
+.CellBox{
+    height:100px;
+    width:150px;
+    border:2px solid red;
+    
+}
+.lit{
+  background-color:rgb(153, 51, 83);
+}

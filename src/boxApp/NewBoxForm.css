@@ -1,0 +1,18 @@
+.form{
+    background-color:greenyellow;
+    height:autopx;
+    width:400px;
+    margin: 50px 0px 10px 20px;
+    border: 2px solod white;
+    border-radius: 10px;
+    
+}
+.input{
+    margin:10px;
+}
+
+
+button{
+    margin-left : 50px;
+    margin-top:10px;
+}
